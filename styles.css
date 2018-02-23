@@ -1,0 +1,47 @@
+html {
+  background-image: url('https://images.unsplash.com/photo-1496167117681-944f702be1f4?ixlib=rb-0.3.5&s=d676600aabaa2c003bc361a72a7ccbb7');
+  background-size: cover;
+  font-family: 'Passion One', cursive;
+  letter-spacing: 3px;
+}
+ 
+.wrapper {
+  margin: auto;
+  margin-top: 7.5%;
+  padding: 10% 0;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 40%;
+  color: white;
+  background-color: black;
+}
+
+#answerDisplay {
+  margin-top: 20%;
+}
+
+.eight {
+  font-size: 500%;
+  color: black;
+  background-color: white;
+  border-radius: 50%;
+  width: 15%;
+  margin: 0 auto;
+}
+
+#userInput {
+  margin: 10px 0;
+}
+
+button {
+	text-decoration: none;
+  opacity: 0.6;
+  background-color: black;
+  color: white;
+  border: thin solid white;
+  height: 20px;
+  width: 80px;
+  border-radius: 1px;
+  transition: 0.5s;
+}
